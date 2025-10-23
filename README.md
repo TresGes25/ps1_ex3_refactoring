@@ -1,3 +1,5 @@
+**We have rewritten Chapters 1, 2, 6, and 8 using Polars.**
+
 # Pandas cookbook
 
 This repo was copied from [pandas_cookbook](https://github.com/jvns/pandas-cookbook). Do have a
